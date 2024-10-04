@@ -1,0 +1,42 @@
+.language {
+  display: inline;
+}
+
+.heading {
+  font-size: 20px;
+}
+
+#source {
+  display: none; 
+}
+
+#output {
+  background: #cccccc52;
+  font-size: 18px;
+  height: 400px;
+  left: 0;
+  position: relative;
+  resize: none;
+  top: 7.6%;
+  width: 50%;
+}
+
+#submit-button {
+  font-size: 20px; 
+  padding: 10px 20px; 
+}
+
+.language {
+  width: 150px;
+}
+
+#tags {
+  width: 150px; 
+}
+
+#heading
+{
+  color: #4aed88;
+}
+
+
